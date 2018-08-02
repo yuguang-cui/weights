@@ -1,3 +1,6 @@
+20, 2pi, -11/22 relu, relu, relu
+
+
  1000/500000 [..............................] - ETA: 10s - loss: 0.2811 - mean_absolute_percentage_error: 3.2855
  29000/500000 [>.............................] - ETA: 1s - loss: 0.2813 - mean_absolute_percentage_error: 4.0337 
  57000/500000 [==>...........................] - ETA: 0s - loss: 0.2738 - mean_absolute_percentage_error: 4.1000
